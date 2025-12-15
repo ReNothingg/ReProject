@@ -2,7 +2,7 @@
   "name": "reproject-tree-generator",
   "displayName": "ReProject Tree Generator",
   "description": "Простое расширение для Visual Studio Code, которое позволяет получить текстовое представление структуры вашего проекта.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "ReNothingg",
   "engines": {
     "vscode": "^1.80.0"
