@@ -56,5 +56,15 @@ MyProject/
 
 *Для ReNothingg:*
 ```bash
+npm install -g @vscode/vsce
+vsce --version
+```
+https://marketplace.visualstudio.com/manage
+https://dev.azure.com/
+```bash
+vsce login ReNothingg
+
 vsce package
+
+vsce publish
 ```
