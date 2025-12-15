@@ -64,7 +64,6 @@ MyProject/
 
 1. Перейдите по [этой ссылке](https://marketplace.visualstudio.com/items?itemName=ReNothingg.reproject-tree-generator).
 2. Нажмите кнопку **Download Extension** (Скачать расширение).
-3. В VS Code нажмите `F1` (или `Ctrl+Shift+P`), введите **Extensions: Install from VSIX...** и выберите скачанный файл `reproject-tree-generator-*.vsix`.
 
 ---
 
