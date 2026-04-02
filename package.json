@@ -2,7 +2,7 @@
   "name": "reproject-tree-generator",
   "displayName": "ReProject Tree Generator",
   "description": "Расширение для Visual Studio Code, которое генерирует текстовое дерево структуры проекта и поддерживает ignore-паттерны с glob-масками.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "ReNothingg",
   "engines": {
     "vscode": "^1.80.0"
@@ -68,6 +68,10 @@
         }
       }
     }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ReNothingg/ReProject.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
